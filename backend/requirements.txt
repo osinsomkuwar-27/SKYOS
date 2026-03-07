@@ -1,1 +1,8 @@
-frontwn
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+google-genai
+python-dotenv
+anomaly
