@@ -53,7 +53,7 @@ export default function App() {
         <div style={{ display:"flex", alignItems:"center", gap:12 }}>
           <div style={{ width:30, height:30, borderRadius:8, background:`linear-gradient(135deg,${C.green},${C.cyan})`, display:"flex", alignItems:"center", justifyContent:"center", fontSize:16, boxShadow:`0 0 16px ${C.green}40` }}>◈</div>
           <div>
-            <div style={{ fontFamily:"'Syne',sans-serif", fontSize:17, fontWeight:800, color:"#e2e8f0", letterSpacing:-0.5 }}>OPTIX</div>
+            <div style={{ fontFamily:"'Syne',sans-serif", fontSize:17, fontWeight:800, color:"#e2e8f0", letterSpacing:-0.5 }}>NiftyLens</div>
             <div style={{ fontSize:7, color:C.muted, letterSpacing:3 }}>OPTIONS ANALYTICS PLATFORM</div>
           </div>
         </div>
